@@ -11,5 +11,7 @@ Debe de tener en cuenta las siguientes caracteristicas:
 . Poder detectar personas dentro de un grupo.  
 . Radio de acción; 2 metros aproximados, solo interesan aquellas personas que se acerquen al detector.  
 . Puede transmitir datos en tiempo real o simplemente la posibilidad  de retirar los datos cada x tiempo para su análisis.  
-. Los datos puedes ser fichero csv, con fecha, intervalo de tiempo y cantidad de personas.  
+. Los datos puedes ser fichero csv, con fecha, intervalo de tiempo y cantidad de personas  
+  
+  Liceencia: Reconocimiento – CompartirIgual (by-sa)
 
